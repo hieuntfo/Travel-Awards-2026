@@ -1,0 +1,6 @@
+{
+  "name": "Travel Awards 2026 - Wireframe Lo-Fi Reviewer",
+  "description": "Wireframe tương tác Lo-Fi chuyên trang Travel Awards 2026 (VnExpress & FPT Online) - Luồng Form Đăng ký đề cử M0-M10 & 8 Lớp trang theo PRD v2.1",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
